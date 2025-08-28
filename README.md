@@ -1,1 +1,2 @@
 # GitBrief
+a quick view over git.
