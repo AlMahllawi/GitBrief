@@ -1,2 +1,2 @@
 # GitBrief
-a quick view over git. featured. Test.
+a quick view over git. featured. Test. Test2.
